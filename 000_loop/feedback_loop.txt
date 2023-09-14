@@ -1,0 +1,31 @@
+digraph G {
+
+  draw [
+      label = "Initial input";
+          shape = rect;
+
+  ];
+
+  guess [
+      label = "Feedback loop";
+          shape = diamond;
+
+  ];
+  point [
+      label = "Output";
+          shape = rect;
+
+  ];
+
+    draw -> guess;
+      guess:s -> point:s [label="creates"];
+        point -> guess:n [label="feeds back into"];
+        {
+            rank=same;
+                guess; point;
+
+        }
+
+}
+
+

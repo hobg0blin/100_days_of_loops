@@ -1,0 +1,39 @@
+digraph G {
+  node [fontname = "Tinos"];
+    edge [fontname = "Tinos"];
+
+    guess [
+        label = "Beginning";
+            shape = rect;
+
+    ];
+    point [
+        label = "End";
+            shape = rect;
+
+    ];
+
+    breakpoint [
+          label = "Breakpoint";
+                shape = rect;
+
+    ];
+    tk [
+          label = "Escape?";
+                shape = rect;
+
+    ];
+
+      guess:s -> breakpoint;
+        breakpoint -> point:s;
+          point:n -> guess:n;
+            breakpoint:s -> tk:n;
+                       {
+                           rank=same;
+                               guess; point;
+
+                       }
+
+}
+
+
