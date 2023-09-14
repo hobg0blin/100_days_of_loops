@@ -1,0 +1,28 @@
+#sketchviz code for https://sketchviz.com/@hobg0blin/74450d04cbffa1e9e0d7eb32d63cf259/f369c6247235382840703315df08781661c6fda1
+
+digraph G {
+  node [fontname = "Tinos"];
+    edge [fontname = "Tinos"];
+
+    guess [
+        label = "Beginning";
+            shape = rect;
+
+    ];
+    point [
+        label = "End";
+            shape = rect;
+
+    ];
+
+      point:n -> guess:n;
+        guess:s -> point:s;
+              {
+                  rank=same;
+                      guess; point;
+
+              }
+
+}
+
+
