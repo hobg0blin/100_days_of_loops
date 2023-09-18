@@ -1,0 +1,25 @@
+digraph G {
+  label="Fig. 1: ouroboros";
+  mouth [
+        label = "mouth";
+         shape = rect;
+
+  ];
+  tail [
+        label = "tail";
+         shape = rect;
+  ];
+
+  mouth:s -> tail:s [arrowhead=icurve, label="feeds"];
+  tail:n -> mouth:n [arrowhead=icurve, label="eats"];
+   {
+               rank=same;
+               mouth; tail;
+
+
+   }
+
+
+
+}
+
