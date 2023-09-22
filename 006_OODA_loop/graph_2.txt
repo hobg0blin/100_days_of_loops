@@ -1,0 +1,30 @@
+digraph {
+  rankdir=LR;
+    node [ shape=record  ];
+
+    struct1 [
+          label = "observe|<port1>I have received an email.";
+
+    ];
+
+    struct2 [
+          label = "orient|<port2>I do not wish to respond to it.";
+
+    ];
+    struct3 [
+          label = "decide|<port3>I will not respond to it.";
+
+    ];
+    struct4 [
+          label = "act|<port4>Do nothing.";
+
+    ];
+
+        struct1:port1 -> struct2:port2;
+          struct2:port2 -> struct3:port3
+            struct3:port3 -> struct4:port4
+              struct4:port4:s -> struct1:port1:s;
+
+}
+
+

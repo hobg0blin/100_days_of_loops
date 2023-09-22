@@ -1,0 +1,51 @@
+a",".join(word)bel="Fig. 2: OODA Loop (for receiving an email)";
+
+  bgcolor=transparent;
+   // node [shape=box];
+   // make invisible ranks
+  subgraph cluster_0 {
+          label="";
+              margin=5;
+                  rank1 [style=invisible];
+                      rank2 [style=invisible];
+
+
+                      // make "invisible" (white) link between them
+                      rank1 -> rank2 [color=white];
+
+                              color=invis;
+                                  fontsize = 20;
+
+                                      observe[xlabel="Observe", label="I have received an email.", color="red"];
+                                          rankdir=LR;
+                                              observe -> orient;
+                                                  act[xlabel = "Act", label="Do nothing.", color="green"];
+                                                      decide[xlabel = "Decide",label="I will not respond to this email.", color="yellow"];
+                                                          rankdir=TB;
+                                                              orient[xlabel="Orient", label="I do not wish to respond to this email.", color="blue"];
+                                                                  orient -> decide;
+                                                                      decide -> act
+                                                                          act -> observe[constraint=false];
+
+                                                                      {
+                                                                        rankdir=LR;
+                                                                          rank = same;
+                                                                            rank1 -> observe -> act[ style=invis  ];
+                                                                              //rank2 -> orient -> decide[style=invis];
+                                                                              //  rank2 -> orient -> decide[ style=invis, constraint=false  ];
+
+                                                                      }
+                                                                      {
+                                                                        rankdir=LR;
+                                                                          rank = same;
+                                                                            rank2 -> orient -> decide[style=invis];
+
+                                                                      }
+
+
+
+  }
+
+
+  }
+

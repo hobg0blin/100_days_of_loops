@@ -1,0 +1,26 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+  label="Fig. 3: Regret";
+    bgcolor=transparent;
+      stimulus[label="a sight,\n a sound,\n a thought"]
+        subgraph cluster_0{
+              label="";
+                rankdir=LR;
+                  remember [shape=doublecircle];
+                    regret[shape=doublecircle];
+
+        }
+      subgraph cluster_1 {
+           label="";
+             forget[shape=doublecircle];
+               stimulus[shape=doublecircle];
+
+      }
+        remember->regret[constraint=false];
+          regret->forget[label="  time passes"];
+            forget->stimulus[constraint=false];
+              stimulus->remember [];
+
+}
+
