@@ -1,0 +1,8 @@
+digraph {
+  label="Fig. 4: Edge Of Tomorrow (2014)";
+  node[shape=tripleoctagon];
+  live[label="10 LIVE"];
+  die[label="20 DIE"];
+  repeat[label="30 GOTO 10"];
+  live -> die -> repeat;
+}
