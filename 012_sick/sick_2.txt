@@ -1,0 +1,13 @@
+digraph {
+  label = "Fig 5. Instructions for being sick"
+    wake[label="wake up"];
+      feel[label="feel bad"];
+        better[label="feel better"];
+          wake -> feel;
+            wake -> better;
+              better->break;
+                feel -> sleep;
+                  sleep -> wake;
+
+}
+
