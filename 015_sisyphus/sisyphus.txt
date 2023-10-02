@@ -1,0 +1,16 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    label="\n Fig. 8: Sisyphus";
+    rank1[style=invisible]
+    rank2[style=invisible]
+    node[shape=circle];
+    up[label="Wake up"];
+    boulder[label="Push boulder", shape=circle]
+    happy[label="Imagine you\n are happy"]
+    up->boulder->happy->up
+    {
+        rank=same;
+        rank1->up->boulder [color=transparent];
+    }
+}

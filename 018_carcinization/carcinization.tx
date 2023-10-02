@@ -1,0 +1,21 @@
+digraph {
+    node[shape=doubleoctagon]
+  label="\n Fig. 9: Carcinization"
+  rank1[style=invisible]
+  rank2[style=invisible]
+  rank1->rank2[color=transparent]
+  crab[label="become \ncrab"]
+  evolve[label="evolve into \nsomething else"]
+  regret[label="new form is \ninferior"]
+  crab->evolve[xlabel="millions of years pass   "]
+  evolve -> regret
+  regret:e ->crab:e [xlabel=" millions of years pass           "]
+ {
+     rank=same
+     rank1->crab[color=transparent]
+ }
+  {
+      rank=same;
+      rank2 -> evolve -> regret[color=transparent]
+  }
+}

@@ -1,0 +1,30 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+// make invisible ranks
+label="Fig. 6: Instructions for online cultural criticism"
+rank1 [style=invisible];
+rank2 [style=invisible];
+rank3[style=invisible]
+rank1->rank2->rank3[color=transparent];
+start[label="log on to \n social media"]
+seek[label="spend hours \n scrolling for cringe"]
+//post[label="'look at how the internet\n makes people behave'"]
+criticism[label="'This tiktok by a \n mentally ill teenager\n says a lot about society'"]
+selfref[label="Works cited: none"]
+substack[label="'Join my Patreon'"]
+start -> seek
+seek-> criticism [label="  post"]
+criticism-> selfref -> substack
+substack-> start;
+{
+    rank = same;
+    rank1 -> start -> seek [color=transparent];
+}
+{ rank = same;
+ rank2 -> criticism [color=transparent];
+}
+{ rank = same;
+ rank3 -> substack-> selfref [color=transparent];
+}
+}
