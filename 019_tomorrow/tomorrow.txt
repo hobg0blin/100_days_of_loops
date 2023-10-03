@@ -1,0 +1,43 @@
+digraph {
+    rank1[style=invisible]
+    rank2[style=invisible]
+    rank3[style=invisible]
+    node[pos="0,0", xlp="1,1", forcelabels=true, shape=rarrow, fontsize=7, fixedsize=true, width=1, height=0.5]
+    rank4[style=invisible]
+
+    rank1->rank2->rank3->rank4[color=transparent]
+
+  today[xlabel="today", label="I'll start on\n it tomorrow"];
+  tmrw[xlabel="tomorrow", label="I'll start on\n it tomorrow"];
+  nxt[xlabel="the next day", label="I'll start on\n it tomorrow"];
+  wk[xlabel="the next week", label="I'll start on\n it tomorrow", shape=larrow];
+  mnth[xlabel="the next month", label="I'll start on\n it tomorrow", shape=larrow];
+  yr[xlabel="the next year", label="I'll start on\n it tomorrow"];
+  dec[xlabel="the next decade", label="I'll start on\n it tomorrow"];
+heat[xlabel="the heat death of the universe", label="I'll start on\n it tomorrow", shape=rect];
+   {
+       rank=same
+           rank1->today->tmrw -> nxt[color=transparent]
+
+   }
+      {
+       rank=same
+           rank2->mnth->wk[color=transparent]
+
+   }
+         {
+       rank=same
+           rank3->yr->dec[color=transparent]
+
+   }
+           {
+       rank=same
+           rank4->heat[color=transparent]
+
+   }
+   today->tmrw->nxt->wk->mnth;
+   mnth:sw->yr:nw;
+   yr->dec;
+   dec->heat[label="and, \n eventually \n"]
+}
+
