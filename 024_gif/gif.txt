@@ -1,0 +1,45 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    label="\n Fig. 13: GIF89A."
+    constrain=false;
+    fontsize="40"
+    node[shape=rectangle]
+    rankdir=LR
+    head[label="header"]
+    desc[label="logical screen descriptor"]
+    color[label="color table"]
+    gce[label="graphical control extension"]
+    imdesc[label="image descriptor"]
+    lct[label="local color table"]
+    imdata[label="image data"]
+    pte[label="plain text extension"]
+    appex[label="application extension"]
+    cmtex[label="comment extension"]
+    trail[label="trailer"]
+    exlab[label="extension label"]
+    ael[label="application extension label"]
+    bs[label="block size"]
+    aid[label="application identifier"]
+    aac[label="application authentication code"]
+    adsb[label="application data sub-block: \n data size \n sub-block ID \n loop count"]
+    term[label="block terminator"]
+    
+    head->desc->color;
+    color -> gce;
+    gce->imdesc->lct->imdata;
+    gce->pte;
+    imdata-> trail;
+    pte -> trail;
+    {
+    rankdir="LR"
+    color -> appex -> trail;
+    color -> cmtex -> trail;
+    }
+    {
+    rank =same;
+    rankdir="TD"
+    appex->exlab->ael->bs->aid->aac->adsb->term->appex
+    }
+}
+
