@@ -1,0 +1,10 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    label="\n Fig. 14. Zeno's Paradox"
+    node[shape=circle]
+    close[label="a\n\step\ncloser\n "]
+    far[label="a step\ninfinitely\nfurther\naway"]
+    close:w->far
+    far:e->close;
+}
