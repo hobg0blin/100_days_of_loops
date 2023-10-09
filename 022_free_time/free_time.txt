@@ -1,0 +1,28 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+  rankdir="LR"
+  start[label="I've finally got\n free time!"]
+  thing1[label="cool side\n project"]
+  thing2[label="maybe I should\n start another hundred days"]
+  thing3[label="get asked to do a\n big work project"]
+  thing4[label="I should get\n a new hobby"]
+  thing5[label="what if I finally\n wrote my manifesto?"]
+  thing6[label="I should learn\n [new software]"]
+  idea[label="seems like a good\n idea"]
+  end[label="oh fuck"]
+  start->thing1
+  start->thing2
+  start->thing3
+  start->thing4
+  start->thing5
+  start->thing6
+  thing1->idea
+  thing2->idea
+  thing3->idea
+  thing4->idea
+  thing5->idea
+  thing6->idea
+  idea->end[label="time passes"]
+}
+
