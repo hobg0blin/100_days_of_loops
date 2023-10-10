@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="197pt"
+   height="292pt"
+   viewBox="0.00 0.00 197.00 292.30"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="zeno.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="2.9409247"
+     inkscape:cx="131.42125"
+     inkscape:cy="194.66667"
+     inkscape:window-width="2490"
+     inkscape:window-height="1369"
+     inkscape:window-x="1990"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g69" />
+  <defs
+     id="defs10" />
+  <g
+     id="graph0"
+     class="graph"
+     transform="translate(4, 288.3)">
+    <polygon
+       fill="white"
+       stroke="transparent"
+       points="-4,4 -4,-288.3 193,-288.3 193,4 -4,4"
+       id="polygon1" />
+    <g
+       id="node1"
+       class="node">
+      <ellipse
+         fill="none"
+         stroke="black"
+         cx="125.24"
+         cy="-236.22"
+         rx="48.17"
+         ry="48.17"
+         id="ellipse1" />
+      <text
+         text-anchor="middle"
+         x="125.24"
+         y="-210.02"
+         font-family="Times,serif"
+         font-size="14.00"
+         id="text5" />
+      <g
+         inkscape:label="Hershey Text"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round"
+         id="g11"
+         transform="translate(-20.66484,3.5465818)">
+        <g
+           transform="translate(125.24,-255.02)"
+           id="g10">
+          <path
+             d="M 567,441 V 0 m 0,346 -63,64 -63,31 H 346 L 284,410 220,346 189,252 V 189 L 220,94.5 284,31.5 346,0 h 95 l 63,31.5 63,63"
+             style="stroke-width:0.1605in"
+             transform="scale(0.016,-0.016)"
+             id="path10" />
+        </g>
+      </g>
+      <g
+         inkscape:label="Hershey Text"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round"
+         id="g15"
+         transform="translate(-20.66484,3.5465818)">
+        <g
+           transform="translate(125.24,-240.02)"
+           id="g14">
+          <path
+             d="m 536,346 -32,64 -94,31 h -95 l -95,-31 -31,-64 31,-62 64,-32 157,-32 63,-31 32,-63 V 94.5 L 504,31.5 410,0 h -95 l -95,31.5 -31,63"
+             style="stroke-width:0.1605in"
+             transform="scale(0.016,-0.016)"
+             id="path11" />
+          <path
+             d="M 252,662 V 126 L 284,31.5 346,0 h 64 M 158,441 h 220"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,8.576,0)"
+             id="path12" />
+          <path
+             d="m 189,252 h 378 v 63 l -31,63 -32,32 -63,31 H 346 L 284,410 220,346 189,252 V 189 L 220,94.5 284,31.5 346,0 h 95 l 63,31.5 63,63"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,14.624,0)"
+             id="path13" />
+          <path
+             d="m 220,441 v -661 m 0,566 64,64 62,31 h 95 l 63,-31 63,-64 31,-94 V 189 L 567,94.5 504,31.5 441,0 h -95 l -62,31.5 -64,63"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,23.696,0)"
+             id="path14" />
+        </g>
+      </g>
+      <g
+         inkscape:label="Hershey Text"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round"
+         id="g21"
+         transform="translate(-20.66484,3.5465818)">
+        <g
+           transform="translate(125.24,-225.02)"
+           id="g20">
+          <path
+             d="m 567,346 -63,64 -63,31 H 346 L 284,410 220,346 189,252 V 189 L 220,94.5 284,31.5 346,0 h 95 l 63,31.5 63,63"
+             style="stroke-width:0.1605in"
+             transform="scale(0.016,-0.016)"
+             id="path15" />
+          <path
+             d="M 220,662 V 0"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,9.072,0)"
+             id="path16" />
+          <path
+             d="M 346,441 284,410 220,346 189,252 V 189 L 220,94.5 284,31.5 346,0 h 95 l 63,31.5 63,63 31,94.5 v 63 l -31,94 -63,64 -63,31 h -95"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,13.104,0)"
+             id="path17" />
+          <path
+             d="m 536,346 -32,64 -94,31 h -95 l -95,-31 -31,-64 31,-62 64,-32 157,-32 63,-31 32,-63 V 94.5 L 504,31.5 410,0 h -95 l -95,31.5 -31,63"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,22.672,0)"
+             id="path18" />
+          <path
+             d="m 189,252 h 378 v 63 l -31,63 -32,32 -63,31 H 346 L 284,410 220,346 189,252 V 189 L 220,94.5 284,31.5 346,0 h 95 l 63,31.5 63,63"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,31.248,0)"
+             id="path19" />
+          <path
+             d="M 220,441 V 0 m 0,252 32,94 63,64 63,31 h 94"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,40.32,0)"
+             id="path20" />
+        </g>
+      </g>
+      <g
+         inkscape:label="Hershey Text"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round"
+         id="g22" />
+    </g>
+    <g
+       id="node2"
+       class="node">
+      <ellipse
+         fill="none"
+         stroke="black"
+         cx="72.24"
+         cy="-95.57"
+         rx="56.64"
+         ry="56.64"
+         id="ellipse5" />
+      <g
+         inkscape:label="Hershey Text"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round"
+         id="g27">
+        <g
+           transform="translate(46.195502,-114.37)"
+           id="g26">
+          <path
+             d="M 567,441 V 0 m 0,346 -63,64 -63,31 H 346 L 284,410 220,346 189,252 V 189 L 220,94.5 284,31.5 346,0 h 95 l 63,31.5 63,63"
+             style="stroke-width:0.1605in"
+             transform="scale(0.016,-0.016)"
+             id="path22" />
+          <path
+             d="m 536,346 -32,64 -94,31 h -95 l -95,-31 -31,-64 31,-62 64,-32 157,-32 63,-31 32,-63 V 94.5 L 504,31.5 410,0 h -95 l -95,31.5 -31,63"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,15.616,0)"
+             id="path23" />
+          <path
+             d="M 252,662 V 126 L 284,31.5 346,0 h 64 M 158,441 h 220"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,24.192,0)"
+             id="path24" />
+          <path
+             d="m 189,252 h 378 v 63 l -31,63 -32,32 -63,31 H 346 L 284,410 220,346 189,252 V 189 L 220,94.5 284,31.5 346,0 h 95 l 63,31.5 63,63"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,30.24,0)"
+             id="path25" />
+          <path
+             d="m 220,441 v -661 m 0,566 64,64 62,31 h 95 l 63,-31 63,-64 31,-94 V 189 L 567,94.5 504,31.5 441,0 h -95 l -62,31.5 -64,63"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,39.312,0)"
+             id="path26" />
+        </g>
+      </g>
+      <g
+         inkscape:label="Hershey Text"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round"
+         id="g37"
+         transform="translate(-26.044498)">
+        <g
+           transform="translate(72.24,-99.37)"
+           id="g36">
+          <path
+             d="m 189,662 31,-32 32,32 -32,31 -31,-31 M 220,441 V 0"
+             style="stroke-width:0.1605in"
+             transform="scale(0.016,-0.016)"
+             id="path27" />
+          <path
+             d="M 220,441 V 0 m 0,315 95,95 63,31 h 94 l 64,-31 31,-95 V 0"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,4.032,0)"
+             id="path28" />
+          <path
+             d="M 410,662 H 346 L 284,630 252,536 V 0 m -94,441 h 220"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,13.6,0)"
+             id="path29" />
+          <path
+             d="m 189,662 31,-32 32,32 -32,31 -31,-31 M 220,441 V 0"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,19.648,0)"
+             id="path30" />
+          <path
+             d="M 220,441 V 0 m 0,315 95,95 63,31 h 94 l 64,-31 31,-95 V 0"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,23.68,0)"
+             id="path31" />
+          <path
+             d="m 189,662 31,-32 32,32 -32,31 -31,-31 M 220,441 V 0"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,33.248,0)"
+             id="path32" />
+          <path
+             d="M 252,662 V 126 L 284,31.5 346,0 h 64 M 158,441 h 220"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,37.28,0)"
+             id="path33" />
+          <path
+             d="m 189,252 h 378 v 63 l -31,63 -32,32 -63,31 H 346 L 284,410 220,346 189,252 V 189 L 220,94.5 284,31.5 346,0 h 95 l 63,31.5 63,63"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,43.328,0)"
+             id="path34" />
+          <path
+             d="M 220,662 V 0"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,52.4,0)"
+             id="path35" />
+          <path
+             d="M 158,441 346,0 M 536,441 346,0 l -62,-126 -64,-63 -62,-31 h -32"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,56.432,0)"
+             id="path36" />
+        </g>
+      </g>
+      <g
+         inkscape:label="Hershey Text"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round"
+         id="g44"
+         transform="translate(-26.044498)">
+        <g
+           transform="translate(72.24,-84.37)"
+           id="g43">
+          <path
+             d="M 410,662 H 346 L 284,630 252,536 V 0 m -94,441 h 220"
+             style="stroke-width:0.1605in"
+             transform="scale(0.016,-0.016)"
+             id="path37" />
+          <path
+             d="M 220,441 V 126 L 252,31.5 315,0 h 95 l 62,31.5 95,94.5 m 0,315 V 0"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,6.048,0)"
+             id="path38" />
+          <path
+             d="M 220,441 V 0 m 0,252 32,94 63,64 63,31 h 94"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,15.616,0)"
+             id="path39" />
+          <path
+             d="M 252,662 V 126 L 284,31.5 346,0 h 64 M 158,441 h 220"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,22.176,0)"
+             id="path40" />
+          <path
+             d="M 220,662 V 0 m 0,315 95,95 63,31 h 94 l 64,-31 31,-95 V 0"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,28.224,0)"
+             id="path41" />
+          <path
+             d="m 189,252 h 378 v 63 l -31,63 -32,32 -63,31 H 346 L 284,410 220,346 189,252 V 189 L 220,94.5 284,31.5 346,0 h 95 l 63,31.5 63,63"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,37.792,0)"
+             id="path42" />
+          <path
+             d="M 220,441 V 0 m 0,252 32,94 63,64 63,31 h 94"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,46.864,0)"
+             id="path43" />
+        </g>
+      </g>
+      <g
+         inkscape:label="Hershey Text"
+         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round"
+         id="g48"
+         transform="translate(-26.044498)">
+        <g
+           transform="translate(72.24,-69.37)"
+           id="g47">
+          <path
+             d="M 567,441 V 0 m 0,346 -63,64 -63,31 H 346 L 284,410 220,346 189,252 V 189 L 220,94.5 284,31.5 346,0 h 95 l 63,31.5 63,63"
+             style="stroke-width:0.1605in"
+             transform="scale(0.016,-0.016)"
+             id="path44" />
+          <path
+             d="M 189,441 315,0 M 441,441 315,0 M 441,441 567,0 M 693,441 567,0"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,9.568,0)"
+             id="path45" />
+          <path
+             d="M 567,441 V 0 m 0,346 -63,64 -63,31 H 346 L 284,410 220,346 189,252 V 189 L 220,94.5 284,31.5 346,0 h 95 l 63,31.5 63,63"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,20.656,0)"
+             id="path46" />
+          <path
+             d="M 158,441 346,0 M 536,441 346,0 l -62,-126 -64,-63 -62,-31 h -32"
+             style="stroke-width:0.1605in"
+             transform="matrix(0.016,0,0,-0.016,30.224,0)"
+             id="path47" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="edge1"
+       class="edge">
+      <path
+         fill="none"
+         stroke="black"
+         d="M75.24,-236.22C42.07,-236.22 43.49,-196.36 52.01,-159.22"
+         id="path9" />
+      <polygon
+         fill="black"
+         stroke="black"
+         points="55.44,-159.91 54.44,-149.36 48.65,-158.23 55.44,-159.91"
+         id="polygon9" />
+    </g>
+    <g
+       id="edge2"
+       class="edge">
+      <path
+         fill="none"
+         stroke="black"
+         d="M130.24,-95.57C166.14,-95.57 158.87,-142.22 146.34,-181.6"
+         id="path48" />
+      <polygon
+         fill="black"
+         stroke="black"
+         points="142.91,-180.82 143.07,-191.42 149.55,-183.04 142.91,-180.82"
+         id="polygon10" />
+    </g>
+    <g
+       inkscape:label="Hershey Text"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round"
+       id="g69">
+      <g
+         transform="translate(-3.0577526,-7.1803945)"
+         id="g68">
+        <path
+           d="M 220,662 V 0 m 0,662 H 630 M 220,346 h 252"
+           style="stroke-width:0.1605in"
+           transform="matrix(0.016,0,0,-0.016,6.048,0)"
+           id="path49" />
+        <path
+           d="m 189,662 31,-32 32,32 -32,31 -31,-31 M 220,441 V 0"
+           style="stroke-width:0.1605in"
+           transform="matrix(0.016,0,0,-0.016,15.12,0)"
+           id="path50" />
+        <path
+           d="M 567,441 V -63 l -31,-95 -32,-31 -63,-31 h -95 l -62,31 m 283,535 -63,64 -63,31 H 346 L 284,410 220,346 189,252 V 189 L 220,94.5 284,31.5 346,0 h 95 l 63,31.5 63,63"
+           style="stroke-width:0.1605in"
+           transform="matrix(0.016,0,0,-0.016,19.152,0)"
+           id="path51" />
+        <path
+           d="m 220,158 -31,-32 31,-31.5 32,31.5 -32,32"
+           style="stroke-width:0.1605in"
+           transform="matrix(0.016,0,0,-0.016,28.72,0)"
+           id="path52" />
+        <path
+           d="m 284,536 62,31 95,95 V 0"
+           style="stroke-width:0.1605in"
+           transform="matrix(0.016,0,0,-0.016,38.8,0)"
+           id="path53" />
+        <path
+           d="M 504,662 189,220 H 662 M 504,662 V 0"
+           style="stroke-width:0.1605in"
+           transform="matrix(0.016,0,0,-0.016,48.88,0)"
+           id="path54" />
+        <path
+           d="m 220,158 -31,-32 31,-31.5 32,31.5 -32,32"
+           style="stroke-width:0.1605in"
+           transform="matrix(0.016,0,0,-0.016,58.96,0)"
+           id="path55" />
+        <path
+           d="M 630,662 189,0 m 0,662 H 630 M 189,0 h 441"
+           style="stroke-width:0.1605in"
+           transform="matrix(0.016,0,0,-0.016,69.04,0)"
+           id="path56" />
+        <path
+           d="m 189,252 h 378 v 63 l -31,63 -32,32 -63,31 H 346 L 284,410 220,346 189,252 V 189 L 220,94.5 284,31.5 346,0 h 95 l 63,31.5 63,63"
+           style="stroke-width:0.1605in"
+           transform="matrix(0.016,0,0,-0.016,79.12,0)"
+           id="path57" />
+        <path
+           d="M 220,441 V 0 m 0,315 95,95 63,31 h 94 l 64,-31 31,-95 V 0"
+           style="stroke-width:0.1605in"
+           transform="matrix(0.016,0,0,-0.016,88.192,0)"
+           id="path58" />
+        <path
+           d="M 346,441 284,410 220,346 189,252 V 189 L 220,94.5 284,31.5 346,0 h 95 l 63,31.5 63,63 31,94.5 v 63 l -31,94 -63,64 -63,31 h -95"
+           style="stroke-width:0.1605in"
+           transform="matrix(0.016,0,0,-0.016,97.76,0)"
+           id="path59" />
+        <path
+           d="m 252,598 -32,32 32,32 32,-32 v -63 l -32,-63 -32,-32"
+           style="stroke-width:0.1605in"
+           transform="matrix(0.016,0,0,-0.016,107.328,0)"
+           id="path60" />
+        <path
+           d="m 536,346 -32,64 -94,31 h -95 l -95,-31 -31,-64 31,-62 64,-32 157,-32 63,-31 32,-63 V 94.5 L 504,31.5 410,0 h -95 l -95,31.5 -31,63"
+           style="stroke-width:0.1605in"
+           transform="matrix(0.016,0,0,-0.016,112.368,0)"
+           id="path61" />
+        <path
+           d="M 220,662 V 0 m 0,662 h 284 l 94,-32 32,-32 32,-62 V 441 L 630,378 598,346 504,315 H 220"
+           style="stroke-width:0.1605in"
+           transform="matrix(0.016,0,0,-0.016,126.992,0)"
+           id="path62" />
+        <path
+           d="M 567,441 V 0 m 0,346 -63,64 -63,31 H 346 L 284,410 220,346 189,252 V 189 L 220,94.5 284,31.5 346,0 h 95 l 63,31.5 63,63"
+           style="stroke-width:0.1605in"
+           transform="matrix(0.016,0,0,-0.016,137.584,0)"
+           id="path63" />
+        <path
+           d="M 220,441 V 0 m 0,252 32,94 63,64 63,31 h 94"
+           style="stroke-width:0.1605in"
+           transform="matrix(0.016,0,0,-0.016,147.152,0)"
+           id="path64" />
+        <path
+           d="M 567,441 V 0 m 0,346 -63,64 -63,31 H 346 L 284,410 220,346 189,252 V 189 L 220,94.5 284,31.5 346,0 h 95 l 63,31.5 63,63"
+           style="stroke-width:0.1605in"
+           transform="matrix(0.016,0,0,-0.016,153.712,0)"
+           id="path65" />
+        <path
+           d="M 567,662 V 0 m 0,346 -63,64 -63,31 H 346 L 284,410 220,346 189,252 V 189 L 220,94.5 284,31.5 346,0 h 95 l 63,31.5 63,63"
+           style="stroke-width:0.1605in"
+           transform="matrix(0.016,0,0,-0.016,163.28,0)"
+           id="path66" />
+        <path
+           d="M 346,441 284,410 220,346 189,252 V 189 L 220,94.5 284,31.5 346,0 h 95 l 63,31.5 63,63 31,94.5 v 63 l -31,94 -63,64 -63,31 h -95"
+           style="stroke-width:0.1605in"
+           transform="matrix(0.016,0,0,-0.016,172.848,0)"
+           id="path67" />
+        <path
+           d="M 189,441 536,0 M 536,441 189,0"
+           style="stroke-width:0.1605in"
+           transform="matrix(0.016,0,0,-0.016,182.416,0)"
+           id="path68" />
+      </g>
+    </g>
+  </g>
+  <plotdata
+     application="axidraw"
+     model="1"
+     plob_version="n/a"
+     layer="-2"
+     pause_dist="-25400"
+     pause_ref="-25400"
+     last_x="2.934527620901406e-13"
+     last_y="-3.3244761110662324e-13"
+     rand_seed="1"
+     row="0" />
+</svg>

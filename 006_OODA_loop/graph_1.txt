@@ -1,4 +1,5 @@
-a",".join(word)bel="Fig. 2: OODA Loop (for receiving an email)";
+digraph ooda {
+label="Fig. 2: OODA Loop (for receiving an email)";
 
   bgcolor=transparent;
    // node [shape=box];
@@ -16,13 +17,13 @@ a",".join(word)bel="Fig. 2: OODA Loop (for receiving an email)";
                               color=invis;
                                   fontsize = 20;
 
-                                      observe[xlabel="Observe", label="I have received an email.", color="red"];
+                                      observe[xlabel="Observe", label="I have received\n an email.", color="red"];
                                           rankdir=LR;
                                               observe -> orient;
                                                   act[xlabel = "Act", label="Do nothing.", color="green"];
-                                                      decide[xlabel = "Decide",label="I will not respond to this email.", color="yellow"];
+                                                      decide[xlabel = "Decide",label="I will not \nrespond to this email.", color="yellow"];
                                                           rankdir=TB;
-                                                              orient[xlabel="Orient", label="I do not wish to respond to this email.", color="blue"];
+                                                              orient[xlabel="Orient", label="I do not wish to\n respond to this email.", color="blue"];
                                                                   orient -> decide;
                                                                       decide -> act
                                                                           act -> observe[constraint=false];
