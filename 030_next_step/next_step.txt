@@ -1,0 +1,19 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    label="\n Fig. 15. The Most Important Step"
+    r1[style=invisible]
+    r2[style=invisible]
+    r1->r2[color=transparent]
+    now[label="the path is\n uncertain"]
+    next[label="take a step\n forward"]
+    stuck[label="stay here\n forever"]
+    now->next
+    now->stuck
+    next:ne->now
+    {
+        rank = same
+        r1->now->next[color=transparent]
+    }
+
+}
