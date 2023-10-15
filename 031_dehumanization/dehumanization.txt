@@ -1,0 +1,9 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    label="\n Fig. 16. Dehumanization"
+    
+    others[label="dehumanize \n others"]
+    self[label="dehumanize\n yourself"]
+    others->self->others
+}
