@@ -1,0 +1,8 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    label="\n Fig. 18. A contract that you make with yourself to be unhappy."
+    want[label="what you\n wanted then"]
+    now[label="what you\n want now"]
+    want->now->want[minlen=10]
+}

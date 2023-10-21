@@ -1,0 +1,7 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+label="\n Fig. 19. Recent history."
+worse[label="things \nget worse"]
+worse:e->worse:w[label="time passes"]
+}
