@@ -1,0 +1,11 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    label="\nFig. 20. Recovery"
+    try[label="try to push\n through it"]
+    accept[label="accept it"]
+    worse[label="make it\n worse"]
+    try:e->worse:e
+    worse:w->try:w
+    worse->accept
+}
