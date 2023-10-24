@@ -1,0 +1,25 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    label="\n                       Fig. 21. Oscillating."
+    r1[style=invisible]
+    r2[style=invisible]
+    r3[style=invisible]
+    r1->r2->r3[color=transparent]
+
+    up->down->up
+    middle
+    
+    {
+        rank=same
+        r1->up[color=transparent]
+    }
+    {
+        rank=same
+        r2->middle[color=transparent]
+    }
+    {
+        rank=same
+        r3->down[color=transparent]
+    }
+}
