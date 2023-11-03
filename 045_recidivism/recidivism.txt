@@ -1,0 +1,9 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+ label="\n Fig. 23. Recidivism."
+ never[label="\"I'm never doing\n THAT again\""]
+ again[label="Do it again"]
+ never:w->again:w[label="  2-3 weeks later"]
+ again:e->never:e
+}

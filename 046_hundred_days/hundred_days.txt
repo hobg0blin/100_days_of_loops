@@ -1,0 +1,16 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    label="\n Fig. 23. The Hundred Day Loop"
+    tired[label="don't feel\n like doing my\n hundred days today"]
+    day[label="is it day \n101 yet?"]
+    no
+    yes
+    do[label="do it\n anyway"]
+    break
+    tired->day
+    day->yes->break
+    day->no
+    no->do
+    do:e->tired:e[label="   the next day"]
+}
