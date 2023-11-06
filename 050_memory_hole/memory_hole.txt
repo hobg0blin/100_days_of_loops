@@ -1,0 +1,14 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    label="\nFig. 25. The memory hole."
+    crimes[label="The USA funds \nwar crimes"]
+    deny[label="\"No we didn't\""]
+    admit[label="They quietly release\n a report admitting\n to funding war crimes"]
+    pretend[label="Everyone pretends\n it didn't happen"]
+    crimes->deny[label="   at the time"]
+    deny->admit[label="    1-20 years later"]
+    admit->pretend
+    pretend:w->crimes:w
+    
+}

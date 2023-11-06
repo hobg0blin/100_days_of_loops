@@ -1,0 +1,9 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    action
+    inaction
+    action:e->action:n
+    inaction:w->inaction:n
+    label="\n Fig. 26. Inertia."
+}
