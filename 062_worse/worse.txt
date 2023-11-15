@@ -1,0 +1,6 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    things->only->get->worse->things
+    label="\n Fig 32. A terror beyond falling"
+}

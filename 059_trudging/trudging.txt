@@ -1,0 +1,10 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    rankdir=LR
+    one[label="one foot"]
+    other[label="the other"]
+    one->other->one
+    
+    label="\n Fig. 29. Trudging."
+}

@@ -1,0 +1,12 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    aldol[label="Aldol\ncondensation"]
+    stuff[label="A bunch of\nchemistry happens"]
+    energy[label="energy is created\nat some point,\n I think?"]
+    metabolism[label="the metabolism is\n definitely involved"]
+    energy->metabolism[color=transparent]
+    aldol:w->stuff:w
+    stuff:e->aldol:e
+    label="\n Fig. 30. Krebs cycle (as  I understand it)."
+}

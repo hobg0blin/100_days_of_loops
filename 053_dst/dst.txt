@@ -1,0 +1,9 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    dark[label="it gets\n dark earlier"]
+    bad[label="it feels\n bad"]
+    dst[label="we set the \n clocks back"]
+    dark->bad->dst->dark
+    label="\n Fig 27. DST."
+}
