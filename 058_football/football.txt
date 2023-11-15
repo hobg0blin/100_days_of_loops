@@ -1,0 +1,11 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    football[label="I attempt to\n kick the football."]
+    lucy[label="It is pulled\n away from me."]
+    grief[label="\"Good grief.\""]
+    football->lucy->grief->football
+    label="\n Fig. 28. We must imagine Charlie Brown happy."
+    
+}
+

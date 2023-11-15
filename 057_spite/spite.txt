@@ -1,0 +1,11 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    node[shape=ellipse]
+    no[label= "Someone tells me\n I can't do something"]
+    spite[label="I commit myself\n wholeheartedly to doing it\n to spite them"]
+    no:e->spite:e
+    spite:w->no:w
+    label="\n Fig. 27. Spite."
+}
+
