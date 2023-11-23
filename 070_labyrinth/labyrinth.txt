@@ -1,0 +1,30 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    a[style=invisible]
+    b[style=invisible]
+    a->b[color=transparent]
+    str[label="the straightest"]
+    path
+    to[label="to the"]
+    end[label="end"]
+    is
+    not
+    the
+    only
+    str->path->to->end
+    path->is->not->the->only->path
+    the->path
+    not->only->str
+    the->end->is
+    not->str
+    {
+        rank = same
+        a->str->path->to->end[color=transparent]
+    }
+    {
+        rank = same
+        b->is->not->the->only[color=transparent]
+    }
+    label="\n Fig. 39. Labyrinth."
+}

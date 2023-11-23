@@ -1,0 +1,9 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    notice[label="notice that you\n are thinking"]
+    try[label="try not to lose\n yourself in thought"]
+    fail
+    notice->try->fail->notice
+    label="\n Fig. 36. Guided meditation"
+}

@@ -1,0 +1,11 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    node[shape=doubleoctagon]
+    1[label="10 Breathe"]
+    2[label="20 Try to breathe differently"]
+    3[label="30 Try to breathe the same"]
+    4[label="40 GOTO 10"]
+    1->2->3->4
+    label="\n Fig. 35. Instructions for breathing."
+}

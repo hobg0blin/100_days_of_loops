@@ -1,0 +1,8 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    believe[label="believe\n that they are\n other"]
+    see[label="do not see\n them"]
+    believe->see->believe
+    label="\n Fig. 34. Unseeing."
+}

@@ -1,0 +1,9 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+ bend[label="first it\nbends"]
+ break[label="then it\nbreaks"]
+ tie[label="then you\ntape it \nback together"]
+ bend->break->tie->bend
+ label="\n Fig. 33. Repairs."
+}

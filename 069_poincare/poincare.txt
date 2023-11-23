@@ -1,0 +1,20 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    a[style=invisible]
+    b[style=invisible]
+    a->b[color="transparent"]
+    e[label="in a dynamical\n system"]
+    t[label="everything\n that moves"]
+    s[label="eventually returns\n to where it started"]
+    {
+        rank = same
+        a->e->s [color=transparent]
+    }
+    {
+        rank=same
+        b->t[color=transparent]
+    }
+    e->t->s
+    label="\n Fig. 38. Poincaré recurrence."
+}

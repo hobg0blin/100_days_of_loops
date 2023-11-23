@@ -1,0 +1,6 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    every->day->is->the->same->every
+    label="\n Fig. 37. Repetition."
+}
