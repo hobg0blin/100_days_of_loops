@@ -1,0 +1,9 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    plan[label="I make\n a plan"]
+    wrong[label="Everything that \ncan go wrong, does"]
+    plan->wrong->plan
+    label="\n Fig. 31. Murphy's Law."
+}
+
