@@ -1,0 +1,31 @@
+digraph feedback_loop {
+    //rankdir=LR
+  // Define nodes
+  rank1[style=invisible]
+  rank2[style=invisible]
+  rank1->rank2[color=transparent]
+  node [shape=circle];
+  wake[label="wake up"]
+  sleep
+  bad[label="feel bad"]
+  ok[label="feel okay"]
+  exercise
+  eat[label="eat well"]
+  sleep[label="sleep well"]
+  meditate
+  wake->exercise->bad
+  eat->bad
+  meditate->bad
+  exercise->eat->meditate->sleep->ok
+
+  {
+      rank = same
+      rank1->wake[color=transparent]
+  }
+    {
+      rank = same
+      rank2->exercise->eat->meditate->sleep[color=transparent]
+  }
+  
+  label="\n                     Fig. 49. Repeat every day for the rest of your life."
+}

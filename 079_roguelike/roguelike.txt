@@ -1,0 +1,24 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    //idea
+    //TRIED A THREE CARD READING FOR INSPIRAATION?
+// 2 of wands: Upright: planning, making decisions, leaving home 
+// process
+// Ace of Pentacles: Reversed: lost opportunity, missed chance, bad investment
+//aspiration
+//Queen of Cups: Reversed: martyrdom, insecurity, dependence 
+//missed chance leads to plan in the hopes of *addressing*? martyrdom/insecurity/dependence
+live
+new[label="the map \nhas changed"]
+goal[label="the goal\n is the same"]
+die
+live->new->goal->die->live
+goal->win
+
+label="\n Fig. 47. Roguelike//Samsara."
+
+
+
+}
+
