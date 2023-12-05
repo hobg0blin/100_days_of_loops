@@ -1,0 +1,23 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+  a[style=invisible]
+  b[style=invisible]
+  a->b[color=transparent]
+  sl0[label="sleep"]
+  sl1[label="sleep"]
+  sl2[label="sleep"]
+  wake
+  sl0->sl1->sl2->wake->sl0
+  {
+      rank=same
+      a->sl0->wake[color=transparent]
+  }
+  {
+      rank=same
+      b->sl1->sl2[color=transparent]
+  }
+  
+  label="\n Fig. 42. Ideal Circadian rhythm."
+
+}

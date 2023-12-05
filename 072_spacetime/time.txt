@@ -1,0 +1,7 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    node[shape=circle]
+    time[label="past\npresent\nfuture"]
+    label="\n Fig. 41. Venn diagram of time as viewed from N>3 dimensions."
+}

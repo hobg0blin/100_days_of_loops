@@ -1,0 +1,13 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+ relax[label="try to relax"]
+ sick[label="am I sick or otherwise\n unable to work?"]
+ yes
+ no
+ guilt[label="feel guilty"]
+ success[label="relax"]
+ relax->sick->yes->success
+ sick->no->guilt
+ label="\n Fig. 44. 'Self care'."
+}

@@ -1,0 +1,9 @@
+ # http://www.graphviz.org/content/cluster
+
+digraph G {
+    live->grow->die
+    live->stagnate->die->live
+    t[label="?"]
+    die->t
+    label="\n Fig. 40. Rebirth"
+}

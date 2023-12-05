@@ -1,0 +1,10 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    compare[label="compare myself\n to someone more\n successful"]
+    remember[label="remember that\n comparison is the\n thief of joy"]
+    compare_2[label="compare myself\n to someone better\n at not comparing\n themself to others"]
+    compare->remember->compare_2
+    
+    label="\n Fig. 50. I'd be happy if I were different."
+}
