@@ -1,0 +1,13 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    rankdir=LR
+    dream[label="have a\n new dream"]
+    achieve[label="work hard\n to achieve it"]
+    reality[label="experience its \ncrushing reality"]
+
+    dream->achieve->reality->dream
+    label="\n Fig. 46. It'll be different this time."
+
+}
+

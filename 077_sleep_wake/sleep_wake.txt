@@ -1,0 +1,9 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    wake[label="too tired\n to get up"]
+    sleep[label="too awake\n to go to bed"]
+    wake->sleep->wake
+    label="\n Fig. 45. Sleep/wake."
+}
+

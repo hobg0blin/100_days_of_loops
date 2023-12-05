@@ -1,0 +1,1187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="800px"
+   version="1.1"
+   width="800px"
+   id="svg127"
+   sodipodi:docname="fractal_3.svg"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview127"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.0120466"
+     inkscape:cx="423.39948"
+     inkscape:cy="344.35174"
+     inkscape:window-width="2490"
+     inkscape:window-height="1369"
+     inkscape:window-x="1990"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg127" />
+  <defs
+     id="defs1" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="700.5,100.5 700.4999999999999,700.5 100.49999999999989,700.5 100.49999999999994,100.49999999999994 700.5,100.49999999999994"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline1"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="651.729506139624,564.4626031899977 200.677048162388,728.6322719863185 36.50737936606703,277.57981400908255 487.55983734330306,113.41014521276156 651.729506139624,564.4626031899976"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline2"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="294.24348823245185,629.8093522082918 0.0824220747642812,382.97891008866054 246.91286419439547,88.81784393097297 541.073930352083,335.64828605060416 294.24348823245185,629.8093522082918"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline3"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="166.57628943440443,485.1770460853453 13.076289434404543,219.30724712352256 278.9460883962273,65.80724712352264 432.4460883962272,331.6770460853454 166.57628943440446,485.17704608534535"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline4"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="71.28307695172208,294.2259581637697 193.78307695172222,82.04973423658225 405.95930087890963,204.5497342365824 283.4593008789095,416.72595816376986 71.28307695172208,294.2259581637697"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline5"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="172.8147656829242,161.54206528954597 365.83708527331703,127.50702246682778 399.8721280960352,320.52934205722056 206.8498085056424,354.5643848799388 172.81476568292416,161.54206528954597"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline6"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="223.0730000125481,150.67614108041045 377.68781723546476,177.93890497411866 350.42505334175655,332.5537221970353 195.8102361188399,305.2909583033271 223.07300001254808,150.67614108041047"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline7"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="208.34344688947968,309.20530367338324 208.34344688947985,152.20530367338324 365.3434468894799,152.20530367338338 365.3434468894797,309.20530367338336 208.3434468894797,309.20530367338324"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline8"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="278.25680824094053,411.33212252049356 128.11209738962094,285.34575102193173 254.0984688881828,135.20104017061215 404.24317973950235,261.187411669174 278.25680824094053,411.3321225204936"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline9"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="139.96685706937535,335.87006735818915 218.46685706937552,199.90407896403235 354.4328454635323,278.4040789640325 275.93284546353215,414.37006735818926 139.96685706937535,335.8700673581891"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline10"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="372.7276200597478,301.8165628407392 236.7616316655908,380.316562840739 158.26163166559104,244.35057444658196 294.227620059748,165.8505744465822 372.72762005974784,301.81656284073915"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline11"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="407.81449074557906,338.5843427535112 177.58979865303138,422.37927786829965 93.79486353824291,192.15458577575194 324.0195556307906,108.35965066096344 407.81449074557906,338.5843427535111"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline12"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="216.45893261511554,364.2409709391614 66.31422176379607,238.25459944059943 192.300593262358,88.10988858927999 342.4453041136775,214.09626008784193 216.45893261511554,364.2409709391614"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline13"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="104.40616733803375,272.7938830061192 158.103329840164,125.26214154273168 305.6350713035515,178.95930404486194 251.93790880142126,326.49104550824944 104.40616733803375,272.79388300611924"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline14"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="252.88856293873664,304.1754297642207 95.88856293873664,304.17542976422044 95.88856293873692,147.17542976422044 252.8885629387369,147.17542976422072 252.8885629387366,304.17542976422067"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline15"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="361.27161234776935,301.4431926232255 211.1269014964494,427.4295641217869 85.14052999788805,277.2848532704669 235.285240849208,151.29848177190556 361.2716123477694,301.4431926232255"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline16"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="332.9277420362238,349.2204077323042 178.31292481330706,376.4831716260118 151.0501609195994,221.86835440309514 305.66497814251613,194.60559050938744 332.9277420362238,349.2204077323041"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline17"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="266.50165266801514,208.35416983974778 345.00165266801474,344.32015823390486 209.03566427385772,422.8201582339045 130.53566427385806,286.85416983974744 266.50165266801514,208.35416983974778"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline18"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="535.4955687165941,281.6230893229323 338.159772542826,516.7987333604581 102.98412850530019,319.46293718668994 300.3199246790683,84.28729314916416 535.4955687165941,281.6230893229323"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline19"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="407.2939855427703,462.1037714611898 177.069293450223,378.30883634640037 260.86422856501247,148.08414425385303 491.0889206575598,231.87907936864246 407.2939855427704,462.1037714611898"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline20"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="286.2194537217462,418.32186348704573 188.21945372174667,248.5808843452955 357.9604328634969,150.58088434529594 455.9604328634965,320.3218634870462 286.2194537217463,418.3218634870458"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline21"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="258.66051596597947,338.2371978200047 204.96335346384984,190.70545635661696 352.4950949272376,137.00829385448736 406.1922574293672,284.5400353178751 258.66051596597947,338.2371978200048"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline22"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="468.2513105901935,314.2588530733267 320.7195691268057,367.95601557545626 267.02240662467614,220.42427411206847 414.5541480880639,166.72711160993885 468.2513105901935,314.25885307332663"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline23"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="494.6266229482077,351.6984864671237 310.44686927416944,418.73443455895426 243.41092118233888,234.55468088491602 427.5906748563771,167.51873279308546 494.6266229482077,351.6984864671237"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline24"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="372.02862517237156,384.9309651712061 236.06263677821494,306.4309651712057 314.56263677821534,170.46497677704906 450.528625172372,248.96497677704946 372.02862517237156,384.93096517120614"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline25"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="408.912835673275,174.67787939656938 462.60999817540454,322.20962085995717 315.07825671201675,375.9067833620867 261.38109420988724,228.3750418986989 408.912835673275,174.67787939656935"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline26"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="379.95936389905194,160.4305859806515 502.45936389905125,372.6068099078394 290.2831399718633,495.10680990783885 167.78313997186393,282.9305859806509 379.9593638990519,160.43058598065147"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline27"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="487.6067542082252,259.29003518636887 389.6067542082246,429.03101432811854 219.86577506647484,331.031014328118 317.86577506647546,161.29003518636824 487.6067542082252,259.29003518636887"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline28"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="424.7337189599002,361.84503372564933 270.1189017369834,389.10779761935686 242.85613784327583,234.49298039644003 397.4709550661927,207.2302165027325 424.7337189599002,361.84503372564933"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline29"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="396.99252306230045,185.9493748171667 450.6896855644299,333.48111628055455 303.15794410104206,387.178278782684 249.46078159891258,239.64653731929616 396.9925230623004,185.94937481716667"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline30"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="233.35893555158464,272.78319567147753 403.09991469333505,174.7831956714782 501.0999146933344,344.5241748132286 331.358935551584,442.524174813228 233.35893555158464,272.7831956714776"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline31"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="284.59686997510573,214.8800605579059 439.2116871980224,242.1428244516146 411.94892330431367,396.7576416745312 257.33410608139707,369.49487778082255 284.59686997510573,214.8800605579059"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline32"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="264.871048297266,292.72079291635987 385.140025866946,191.80313819557364 486.05768058773225,312.07211576525367 365.7887030180522,412.9897704860399 264.871048297266,292.72079291635987"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline33"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="565.5818431428204,373.92596162376043 434.246108105762,734.7679280055488 73.40414172397357,603.4321929684904 204.73987676103198,242.590226586702 565.5818431428204,373.9259616237604"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline34"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="443.6004074612238,665.9228346900343 141.26442728647606,612.6128441462853 194.574417830225,310.2768639715375 496.91039800497276,363.5868545152864 443.6004074612238,665.9228346900342"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline35"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="369.8296540510762,690.1762407927546 182.14876548692723,532.6932764195516 339.63172986013024,345.0123878554026 527.3126184242792,502.4953522286056 369.8296540510762,690.1762407927546"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline36"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="232.52392749303513,511.5515917927678 358.51029899159755,361.40688094144866 508.65500984291674,487.39325244001105 382.6686383443543,637.5379632913302 232.52392749303513,511.5515917927678"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline37"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="260.86779780458096,439.6160373309312 415.4826150274978,412.35327343722383 442.74537892120514,566.9680906601407 288.13056169828826,594.2308545538481 260.86779780458096,439.6160373309312"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline38"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="327.2938871727893,580.4822752234878 248.79388717278994,444.5162868293305 384.75987556694724,366.0162868293311 463.2598755669466,501.9822752234884 327.2938871727893,580.4822752234878"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline39"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="524.4521581385733,468.56694420591907 398.4657866400107,618.7116550572382 248.3210757886916,492.72528355867576 374.3074472872541,342.5805727073566 524.4521581385733,468.56694420591907"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline40"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="515.4703960974499,537.0884365762818 360.85557887453297,564.3512004699892 333.59281498082566,409.73638324707224 488.20763220374255,382.47361935336494 515.4703960974499,537.0884365762818"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline41"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="399.3641538368131,389.7137917182548 519.6331314064922,490.6314464390421 418.71547668570486,610.9004240087213 298.44649911602573,509.9827692879339 399.3641538368131,389.7137917182548"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline42"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="475.86194965500994,415.763035045977 392.06701454021976,645.9877271385242 161.84232244767253,562.192792023734 245.6372575624627,331.9680999311868 475.86194965500994,415.76303504597695"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline43"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="474.64692232767834,512.2615668670013 304.90594318592775,610.2615668670004 206.9059431859286,440.52058772524975 376.64692232767925,342.5205877252506 474.6469223276784,512.2615668670013"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline44"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="380.51255893908024,611.5554146880065 260.2435813694011,510.63775996721904 361.1612360901886,390.36878239754 481.4302136598676,491.2864371183274 380.51255893908024,611.5554146880065"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline45"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="402.33984858799874,376.3504605679418 429.60261248170593,530.9652777908587 274.98779525878905,558.2280416845659 247.72503136508183,403.613224461649 402.33984858799874,376.3504605679418"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline46"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="396.8528420100638,363.04907842055627 430.887884832781,556.0713980109493 237.8655652423879,590.1064408336665 203.83052241967067,397.08412124327344 396.8528420100638,363.0490784205562"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline47"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="428.8243851214124,439.51440200256326 350.3243851214115,575.4803903967197 214.358396727255,496.9803903967189 292.85839672725587,361.0144020025624 428.8243851214123,439.5144020025633"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline48"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="288.8092221310403,370.02777813192495 424.7752105251967,448.52777813192586 346.27521052519586,584.4937665260823 210.3092221310394,505.9937665260814 288.8092221310403,370.02777813192495"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline49"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="443.6004074612257,311.435319902218 496.9103980049714,613.7713000769663 194.574417830223,667.081290620712 141.26442728647731,364.74531044596364 443.6004074612257,311.4353199022179"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline50"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="432.5609136891943,577.3554077507223 202.33622159664606,661.1503428655096 118.54128648185866,430.9256507729615 348.76597857440686,347.13071565817404 432.5609136891943,577.3554077507223"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline51"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="234.4310277612209,676.2349880803754 167.39507966939095,492.0552344063368 351.57483334342953,425.01928631450687 418.61078143525947,609.1990399885455 234.4310277612209,676.2349880803754"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline52"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="157.83859316044428,590.3632633797178 258.7562478812318,470.0942858100388 379.02522545091074,571.0119405308262 278.10757073012326,691.2809181005052 157.83859316044428,590.3632633797178"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline53"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="259.5377490571384,648.6637425632646 181.03774905713925,512.6977541691072 317.00373745129673,434.197754169108 395.5037374512959,570.1637425632655 259.5377490571384,648.6637425632646"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline54"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="334.7638592586866,378.83151461763777 401.7998073505164,563.0112682916764 217.62005367647782,630.0472163835062 150.584105584648,445.86746270946765 334.7638592586866,378.83151461763777"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline55"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="387.65713796276873,467.376007876024 309.15713796276776,603.3419962701803 173.1911495686114,524.8419962701794 251.6911495686124,388.876007876023 387.65713796276873,467.376007876024"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline56"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="213.58847045494667,378.2285840053853 349.554458849103,456.72858400538627 271.054458849102,592.6945723995426 135.08847045494565,514.1945723995416 213.58847045494667,378.2285840053853"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline57"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="243.57299243339793,366.6790772961249 488.572992433398,366.6790772961267 488.57299243339617,611.6790772961267 243.5729924333961,611.6790772961249 243.5729924333979,366.6790772961249"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline58"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="413.7314820042729,376.0920280486575 511.73148200427164,545.8330071904082 341.9905028625209,643.833007190407 243.99050286252213,474.0920280486563 413.7314820042729,376.0920280486575"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline59"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="510.3414624331378,500.6199726724758 390.0724848634574,601.5376273932616 289.15483014267164,481.2686498235812 409.423807712352,380.3509951027954 510.3414624331378,500.6199726724758"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline60"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="387.47502544112797,400.07361750070197 488.39268016191374,520.3425950703823 368.12370259223337,621.2602497911681 267.2060478714476,500.99127222148775 387.47502544112797,400.07361750070197"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline61"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="239.96514155046293,430.1071745050213 424.14489522450157,363.0712264131917 491.18084331633116,547.2509800872303 307.0010896422925,614.2869281790599 239.9651415504629,430.1071745050213"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline62"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="313.93764638126964,418.5805062362457 468.5524636041866,391.3177423425389 495.81522749789343,545.9325595654559 341.2004102749765,573.1953234591626 313.93764638126964,418.5805062362457"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline63"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="312.2301495576004,570.1775642180808 258.5329870554716,422.64582275469274 406.06472851885974,368.9486602525639 459.7618910209885,516.480401715952 312.2301495576004,570.1775642180809"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline64"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="234.7116167511382,27.65390309173324 650.4038105676669,267.65390309173677 410.4038105676634,683.3460969082655 -5.28838324886533,443.346096908262 234.7116167511382,27.65390309173324"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline65"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="404.4768955725055,19.200657695129905 535.8126306095593,380.04262407691994 174.97066422776925,511.3783591139737 43.63492919071541,150.53639273218369 404.47689557250544,19.20065769512985"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline66"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="492.9335618734001,261.13926619727476 295.5977656996305,496.3149102347994 60.42212166210584,298.9791140610298 257.75791783587545,63.803470023505156 492.9335618734001,261.13926619727476"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline67"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="364.73197869957517,441.6199483355316 134.50728660702828,357.82501322074074 218.30222172181914,127.60032112819385 448.526913814366,211.39525624298471 364.7319786995752,441.6199483355316"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline68"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="287.63534092087514,432.7296864059052 161.64896942231474,282.5849755545844 311.7936802736356,156.59860405602396 437.78005177219603,306.7433149073448 287.63534092087514,432.7296864059052"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline69"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="251.50372910206846,367.1606222087002 173.00372910206966,231.1946338145426 308.9697174962273,152.6946338145438 387.4697174962261,288.6606222087014 251.50372910206846,367.16062220870026"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline70"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="372.66601160939746,386.73073886967506 218.05119438648097,359.4679749759656 245.3139582801904,204.85315775304917 399.92877550310686,232.1159216467586 372.66601160939746,386.73073886967506"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline71"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="398.28718103305494,310.8244379057245 272.30080953449186,460.9691487570431 122.15609868317324,334.98277725848004 248.14247018173634,184.83806640716142 398.28718103305494,310.8244379057245"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline72"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="366.7716213533001,351.45358907728945 230.80563295914243,429.9535890772882 152.30563295914368,293.98760068313055 288.2716213533013,215.4876006831318 366.7716213533001,351.45358907728945"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline73"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="356.9412213533005,311.38037834564204 278.44122135329917,447.3463667397982 142.475232959143,368.8463667397969 220.9752329591443,232.88037834564074 356.9412213533005,311.38037834564204"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline74"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="376.343725986281,138.6659381695821 418.8875295146766,379.94383765757357 177.60963002668512,422.4876411859692 135.06582649828948,181.20974169797773 376.34372598628096,138.6659381695821"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline75"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="405.108747365031,254.7687923032655 307.10874736502933,424.5097714450146 137.36776822328022,326.5097714450129 235.3677682232819,156.76879230326384 405.10874736503104,254.7687923032655"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline76"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="257.2213586425283,372.61326336932535 121.25537024837217,294.113263369324 199.75537024837354,158.14727497516785 335.7213586425297,236.6472749751692 257.22135864252834,372.61326336932535"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline77"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="367.8496585779104,253.25838297161533 314.15249607577886,400.79012443500244 166.62075461239172,347.09296193287094 220.31791711452325,199.5612204694838 367.8496585779104,253.2583829716153"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline78"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="172.62258330618468,137.57873674475718 356.8023369802221,204.61468483659016 289.7663888883891,388.7944385106275 105.5866352143517,321.75849041879457 172.62258330618465,137.57873674475718"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline79"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="251.70254626410477,178.57312478191244 371.9715238337833,279.4907795027004 271.05386911299536,399.7597570723789 150.78489154331683,298.84210235159094 251.70254626410477,178.57312478191244"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline80"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="117.77211122878833,346.7552582270851 171.4692737309199,199.223516763698 319.001015194307,252.92067926582956 265.3038526921754,400.45242072921667 117.77211122878833,346.7552582270851"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline81"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="270.86548438497647,49.73820432530749 506.04112842250066,247.0740004990775 308.70533224873066,482.2496445366017 73.52968821120646,284.9138483628317 270.86548438497647,49.73820432530749"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline82"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="314.6343312636818,105.17844060858647 472.117295636882,292.8593291727378 284.4364070727307,450.3422935459379 126.95344269953057,262.66140498178663 314.6343312636819,105.17844060858647"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline83"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="437.6625387598631,289.13512072723995 287.517827908542,415.1214922258 161.53145640998193,264.97678137447895 311.676167261303,138.99040987591889 437.6625387598631,289.13512072723995"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline84"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="401.59166100269795,374.2436378267813 246.9768437797816,346.98087393307156 274.2396076734914,192.3660567101552 428.85442489640775,219.62882060386494 401.591661002698,374.2436378267813"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline85"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="333.0621790801098,179.01934568503614 411.5621790801083,314.9853340791939 275.59619068595055,393.4853340791924 197.09619068595202,257.51934568503464 333.0621790801098,179.01934568503611"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline86"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="173.96699870935385,199.69610147419206 366.98931829974697,165.66105865147594 401.0243611224631,358.6833782418691 208.00204153207,392.71842106458524 173.96699870935385,199.6961014741921"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline87"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="240.87722667401093,179.21614425732702 388.4089681373979,232.9133067594587 334.7118056352662,380.4450482228457 187.18006417187925,326.74788572071395 240.8772266740109,179.21614425732702"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline88"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="190.77609842072215,290.7129690944905 269.2760984207237,154.7469807003346 405.24208681487966,233.24698070033617 326.7420868148781,369.2129690944921 190.77609842072218,290.7129690944906"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline89"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="190.76231170801518,123.95788486169585 432.04021119600554,166.50168839009658 389.49640766760484,407.779587878087 148.21850817961445,365.23578434968624 190.76231170801515,123.95788486169585"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline90"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="348.2956826912423,139.68165752161804 415.3316307830712,323.8614111956568 231.15187710903245,390.8973592874857 164.11592901720354,206.71760561344695 348.2956826912423,139.68165752161804"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline91"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="371.5481872644254,250.42433220367718 344.2854233707155,405.03914942659344 189.67060614779922,377.7763855328836 216.93337004150908,223.16156830996732 371.54818726442534,250.42433220367718"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline92"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="162.0375212813135,228.75763961349762 309.5692627447017,175.06047711136944 363.26642524682984,322.5922185747576 215.73468378344168,376.28938107688583 162.0375212813135,228.75763961349762"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline93"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="155.85329032926293,229.41901883367527 325.594269471014,131.4190188336774 423.5942694710119,301.1599979754285 253.8532903292608,399.15999797542634 155.8532903292629,229.4190188336753"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline94"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="160.6400007663205,208.84718571056663 315.2548179892374,181.58442181686047 342.51758188294355,336.19923903977735 187.90276466002666,363.4620029334836 160.64000076632047,208.84718571056663"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline95"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="173.34339840495065,310.86624215846166 251.84339840495232,174.9002537643059 387.8093867991081,253.40025376430754 309.30938679910645,389.36624215846336 173.34339840495068,310.86624215846166"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline96"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="95.04148349272953,68.36873209149365 455.8834498745165,199.7044671285549 324.54771483745526,560.5464335103419 -36.2942515443317,429.2106984732807 95.04148349272953,68.36873209149371"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline97"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="153.79271238607592,105.455696021898 419.6625113478965,258.95569602190125 266.1625113478932,524.8254949837218 0.2927123860727079,371.32549498371856 153.79271238607595,105.455696021898"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline98"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="234.7051505286372,154.34651500495252 392.18811490183685,342.0274035691041 204.50722633768532,499.5103679423037 47.024261964485675,311.8294793781522 234.7051505286372,154.34651500495252"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline99"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="317.6678168498789,215.93602544722665 317.6678168498763,411.93602544722654 121.66781684987643,411.936025447224 121.66781684987893,215.93602544722413 317.6678168498788,215.93602544722663"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline100"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="326.21779834506424,285.3860439520405 247.71779834506248,421.3520323461963 111.7518099509067,342.85203234619456 190.2518099509084,206.8860439520388 326.2177983450642,285.3860439520405"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline101"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="258.048198345065,224.41279621076478 336.5481983450632,360.3787846049226 200.5822099509054,438.87878460492084 122.08220995090716,302.91279621076296 258.048198345065,224.41279621076475"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline102"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="160.52287658827083,148.665613533143 310.66758743958883,274.65198503170654 184.68121594102521,424.79669588302454 34.53650508970725,298.81032438446096 160.52287658827083,148.665613533143"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline103"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="269.2134470484028,249.35025580556015 215.51628454627092,396.881997268947 67.9845430828841,343.18483476681513 121.681705585016,195.65309330342825 269.2134470484028,249.35025580556015"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline104"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="23.48518412264923,282.75717321289557 159.45117251680708,204.25717321289747 237.95117251680517,340.2231616070553 101.9851841226473,418.72316160705344 23.485184122649173,282.7571732128956"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline105"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="72.43459916509414,192.45758280091593 317.434599165094,192.45758280091928 317.4345991650906,437.4575828009191 72.43459916509079,437.4575828009158 72.43459916509408,192.45758280091596"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline106"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="242.59308873596893,201.8705335534496 340.59308873596655,371.6115126952009 170.8521095942153,469.6115126951985 72.85210959421767,299.8705335534472 242.5930887359689,201.87053355344958"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline107"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="284.7225991650925,306.8930231243251 284.7225991650903,463.89302312432505 127.7225991650904,463.8930231243229 127.72259916509256,306.89302312432295 284.7225991650925,306.8930231243251"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline108"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="108.685993799269,302.2758416291365 244.65198219342693,223.7758416291384 323.151982193425,359.7418300232963 187.18599379926707,438.2418300232944 108.685993799269,302.2758416291365"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline109"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="93.00723562755206,232.83015560990765 286.02955521794524,198.79511278719204 320.0645980406609,391.81743237758525 127.04227845026764,425.8524752003009 93.007235627552,232.83015560990768"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline110"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="143.2654699571761,221.96423140077277 297.8802871800923,249.22699529448303 270.6175232863821,403.84181251739926 116.0027060634659,376.579048623689 143.2654699571761,221.9642314007728"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline111"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="111.70806330255004,290.0720423494898 231.977040872231,189.15438762870485 332.8946955930159,309.4233651983858 212.62571802333497,410.3410199191707 111.70806330255004,290.0720423494898"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline112"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="20.259333007872954,387.8593735332422 125.25951700885742,99.37373895196993 413.7451515901297,204.37392295295433 308.7449675891453,492.8595575342266 20.25933300787301,387.8593735332422"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline113"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="88.10628665524439,274.5598327328832 210.6062866552474,62.38360880569752 422.782510582433,184.88360880570053 300.28251058243006,397.0598327328862 88.10628665524439,274.55983273288314"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline114"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="219.28336897427917,112.70236963062064 403.4631226483162,179.73831772245438 336.42717455648244,363.9180713964914 152.24742088244545,296.8821233046577 219.28336897427917,112.70236963062064"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline115"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="232.27853801147123,121.9298390183692 368.24452640562686,200.42983901837113 289.7445264056249,336.3958274125268 153.77853801146927,257.89582741252485 232.2785380114712,121.9298390183692"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline116"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="224.26587902366168,149.65768896631943 378.8806962465779,176.92045286002977 351.61793235286757,331.535270082946 197.00311512995137,304.2725061892356 224.26587902366168,149.65768896631943"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline117"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="249.61089634606873,416.98382385057477 151.61089634607134,247.24284470882344 321.35187548782267,149.24284470882603 419.3518754878201,318.9838238505773 249.61089634606878,416.98382385057477"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline118"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="218.79687694853897,354.1107886022497 191.53411305483326,199.49597137933273 346.14893027775025,172.233207485627 373.411694171456,326.848024708544 218.796876948539,354.1107886022497"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline119"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="369.0500565163378,396.5357091481992 221.5183150529511,342.838546646067 275.2154775550833,195.30680518268028 422.74721901847,249.00396768481247 369.05005651633786,396.5357091481992"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline120"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="64.3608183382321,455.8835410190199 106.90462186663376,214.60564153102973 348.1825213546239,257.14944505943134 305.6387178262223,498.4273445474215 64.36081833823215,455.8835410190199"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline121"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="29.974284237963502,376.4371997418293 180.11899508928502,250.45082824327005 306.1053665878443,400.5955390945916 155.9606557365228,526.5819105931508 29.974284237963502,376.4371997418293"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline122"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="31.11601245470638,355.3466954441043 178.6477539180947,301.64953294197664 232.34491642022235,449.181274405365 84.81317495683402,502.87843690749264 31.11601245470638,355.3466954441043"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline123"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="131.5079566218492,516.2026280370342 77.81079411972155,368.6708865736458 225.34253558310988,314.9737240715182 279.0396980852375,462.50546553490653 131.5079566218492,516.2026280370342"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline124"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="200.5419523102105,544.0011632062889 102.54195231021322,374.2601840645375 272.2829314519646,276.2601840645402 370.2829314519619,446.0011632062916 200.5419523102105,544.001163206289"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline125"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="111.46249517498359,413.1543592642075 231.73147274466464,312.23670454342283 332.6491274654494,432.5056821131039 212.38014989576834,533.4233368338886 111.46249517498359,413.1543592642075"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline126"
+     transform="translate(66.387031,8.3727394)" />
+  <polyline
+     clip-path="url(#border_clip)"
+     fill="none"
+     points="276.1485680633628,545.2950110272957 155.87959049368493,444.3773563065072 256.7972452144735,324.1083787368293 377.0662227841513,425.02603345761787 276.1485680633628,545.2950110272957"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="1"
+     id="polyline127"
+     transform="translate(66.387031,8.3727394)" />
+  <plotdata
+     application="axidraw"
+     model="1"
+     plob_version="n/a"
+     layer="-1"
+     pause_dist="20637234"
+     pause_ref="20637234"
+     last_x="106.89375000000089"
+     last_y="91.39374999999978"
+     rand_seed="1"
+     row="0" />
+</svg>

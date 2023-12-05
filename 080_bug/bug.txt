@@ -1,0 +1,10 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    find[label="find bug"]
+    fix[label="fix bug"]
+    new[label="create\n new bug"]
+    find->fix->new->find
+    label= "\n Fig. 48. The 1x Programmer."
+}
+
