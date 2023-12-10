@@ -1,0 +1,8 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    inspiration[label="words flow out of you\n like water"]
+    desperation[label="every thought is like\npulling teeth"]
+    inspiration->desperation->inspiration
+    label="\n Fig. 53. Pendulum."
+}

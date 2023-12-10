@@ -1,0 +1,9 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    bed[label="go to bed tired"]
+    wake[label="wake up tired"]
+    day[label="spend the day tired"]
+    bed->wake->day->bed
+    label="\nFig. 51. Fatigue."
+}

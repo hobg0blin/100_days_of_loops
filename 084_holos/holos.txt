@@ -1,0 +1,16 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    this
+    is
+    not
+    end[label="an ending"]
+    begin[label="a beginning"]
+    this->is->not->end
+    not->begin
+    {
+        rank=same
+    end->begin->end
+    }
+    label="\n Fig. 52. όλος"
+}
