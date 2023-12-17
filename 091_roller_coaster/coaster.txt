@@ -1,0 +1,11 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    up
+    down
+    stop
+    up->down->up
+    down->stop
+    label="\n Fig. 54. Roller coaster."
+}
+

@@ -1,0 +1,9 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+  die[label="remember that\n you will die"]
+  live[label="remember that\n you should live"]
+  die->live->die
+  label="\n Fig. 55. Bees trapped in a jar."
+}
+

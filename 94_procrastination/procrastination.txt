@@ -1,0 +1,10 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    task[label="have a task\n to do"]
+    do[label="do the task"]
+    distraction[label="manufacture an\n increasingly unnecessary\n series of things to do\n instead of the task"]
+    task->distraction->task
+    label="\n Fig. 56. Productive procrastination."
+}
+
