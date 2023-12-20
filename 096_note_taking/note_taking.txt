@@ -1,0 +1,11 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    node[shape=rectangle]
+    disorganized[label="I feel disorganized"]
+    notes[label="I devise a new \nnote-taking system"]
+    unwieldy[label="It becomes overwhelming"]
+    disorganized->notes->unwieldy->disorganized
+    label="\n Fig. 57. Note-taking."
+}
+
