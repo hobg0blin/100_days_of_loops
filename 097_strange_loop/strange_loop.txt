@@ -1,0 +1,33 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+    a[label="∞"]
+    b[label="∞"]
+    c[label="∞"]
+    d[label="∞"]
+    e[label="∞"]
+    f[label="∞"]
+    g[label="∞"]
+    a->b
+    d->a
+    {
+    rank=same
+    b->c
+    c->d
+    }
+    c->e
+    {
+        rank=same
+        e->f
+        g->e
+    }
+    d->g
+    f->a
+    f->c
+    label="\n Fig. 58. Strange loop."
+
+
+
+    
+}
+
